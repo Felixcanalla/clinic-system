@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'apps.profesionales.apps.ProfesionalesConfig',
     'apps.obras_sociales.apps.ObrasSocialesConfig',
     'apps.turnos.apps.TurnosConfig',
+    'apps.historia_clinica.apps.HistoriaClinicaConfig',
     ]
 
 MIDDLEWARE = [
